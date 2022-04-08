@@ -1,6 +1,6 @@
 # Magento 2 Store Locator Extension
 
-<div class="list-features" style="text-align: justify;">Managing a chain of stores is always a headache problem for the store owners. Also, it is more difficult to administer both online and physical stores at the same time. In order to build a strong bond between them and take advantage of this connection to provide customers more convenience, let's try our great extension – <strong>Magento 2 Store Locator</strong>.</div>
+<div class="list-features" style="text-align: justify;">Managing a chain of stores is always a headache problem for the store owners. Also, it is more difficult to administer both online and physical stores at the same time. In order to build a strong bond between them and take advantage of this connection to provide customers more convenience, let's try our great extension – <strong><a href="https://www.tigren.com/magento-2-extensions" rel="nofollow">Magento 2 Store Locaator</a></strong>.</div>
 <div class="list-features" style="text-align: justify;">
 <div class="feature-des">
 
